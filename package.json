@@ -1,0 +1,20 @@
+{
+  "name": "ascetic-highlight-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Ascetic syntax highlighting. Only comments deserve to have its own color.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "disable",
+    "no",
+    "highlighting",
+    "highlight",
+    "code"
+  ],
+  "repository": "https://github.com/iu0v1/ascetic-highlight-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
